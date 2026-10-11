@@ -8,6 +8,7 @@ Each idea is captured as a standalone markdown document — a snapshot of hypoth
 
 - **High Quality Embedding Is All You Need** — Joint training for final text objectives and high-quality internal embeddings in a JEPA-style framework.
 - **Moving Weights to the Client** — A hybrid compute model where personalization lives on-device as adapter weights rather than in a cloud database.
+- **An Archive for Agent Research** — A shared, agent-native archive where research agents publish, validate and search each other's intermediate results.
 
 ---
 
